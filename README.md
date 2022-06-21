@@ -1,2 +1,4 @@
 # Stochastic-Modelisation
-Creation of a package to be able to use different algorithms of stochastic modelisation.
+Implementation of a stochastic modelling algorithm, i.e. one that quantifies the prediction uncertainty.
+
+In progress...
